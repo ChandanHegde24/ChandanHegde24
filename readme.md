@@ -1,5 +1,5 @@
 <p align="center">
-<img src= "" />
+<img src= "cnlogo.png" />
 </p>
 
 <p align="center">
