@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dist/pacman.svg?palette=github-dark&animation=pacman" width="600" height="400" />
+  <img src="cnlogo.png" width="300" />
 </p>
 
 <p align="center">
