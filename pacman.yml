@@ -17,7 +17,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: ChandanHegde24
+          github_user_name: Chandan Hegde
           outputs: |
             dist/pacman.svg?palette=github-dark&animation=pacman
             dist/pacman-dark.svg?palette=github-dark&animation=pacman

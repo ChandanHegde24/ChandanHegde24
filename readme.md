@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141e30,100:243b55&height=200&section=header&text=ANVIT%20NAIK&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
