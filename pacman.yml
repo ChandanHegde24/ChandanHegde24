@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: Chandan Hegde
           outputs: |
-            dist/pacman.svg?palette=github-dark&animation=pacman
-            dist/pacman-dark.svg?palette=github-dark&animation=pacman
+            dist/pacman.svg?palette=github-dark&animation=pacman&width=1280&height=720
+            dist/pacman-dark.svg?palette=github-dark&animation=pacman&width=1280&height=720
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
