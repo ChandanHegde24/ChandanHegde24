@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Building with purpose
+  "Building with purpose" is my motto
 </p>
 
 ---
