@@ -1,5 +1,9 @@
+<!-- markdownlint-disable MD033 -->
+
+# Chandan Hegde
+
 <p align="center">
-  <img src="cnlogo.png" width="300" />
+  <img src="cnlogo.png" width="300" alt="Chandan Hegde logo" />
 </p>
 
 <p align="center">
@@ -57,27 +61,25 @@ I am <strong>Chandan Hegde</strong>, a Computer Science and Engineering student 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChandanHegde24&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanHegde24&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChandanHegde24&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanHegde24&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChandanHegde24&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=ChandanHegde24&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub streak" />
 </p>
 
 ---
 
-
 ## 📫 Let's Connect
 
-📧 Email: chandanhegde2003@yahoo.com  
-💼 LinkedIn: https://www.linkedin.com/in/chandan-hegde/
+📧 Email: [chandanhegde2003@yahoo.com](mailto:chandanhegde2003@yahoo.com)  
+💼 LinkedIn: [linkedin.com/in/chandan-hegde](https://www.linkedin.com/in/chandan-hegde/)
 
 ---
 
