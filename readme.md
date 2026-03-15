@@ -4,13 +4,9 @@
 
 <p align="center">
   <img src="download.png" width="300" alt="Chandan Hegde logo" />
-</p>
-
-<p align="center">
+  <br />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&center=true&vCenter=true&width=520&lines=Building+with+purpose" alt="Building with purpose" />
-</p>
-
-<p align="center">
+  <br />
   <em>Turning ideas into reliable, real-world software.</em>
 </p>
 
