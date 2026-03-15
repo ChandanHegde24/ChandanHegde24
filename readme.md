@@ -3,7 +3,7 @@
 # Chandan Hegde
 
 <p align="center">
-  <img src="cnlogo.png" width="300" alt="Chandan Hegde logo" />
+  <img src="download.png" width="300" alt="Chandan Hegde logo" />
 </p>
 
 <p align="center">
