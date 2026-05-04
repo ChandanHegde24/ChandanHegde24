@@ -15,7 +15,7 @@
 ## About Me
 
 <p align="justify">
-I am <strong>Chandan Hegde</strong>, a Computer Science and Engineering student with strong foundations in web development, software engineering, and cloud computing. I view technology as a practical way to solve real-world problems, not just as code or syntax. I enjoy taking ideas from concept to deployment and building solutions that are scalable, secure, and user-focused.
+I am <strong>Chandan Hegde</strong>, a Computer Science and Engineering student with strong foundations in web development, software engineering, software development and cloud computing. I view technology as a practical way to solve real-world problems, not just as code or syntax. I enjoy taking ideas from concept to deployment and building solutions that are scalable, secure, and user-focused.
 </p>
 
 ---
