@@ -20,7 +20,25 @@ I am <strong>Chandan Hegde</strong>, a Computer Science and Engineering student 
 
 ---
 
-## 💻 Tech Stack
+## � Current Focus
+
+- 🔭 I’m currently working on **[Your Latest Project Name or Portfolio]**
+- 🌱 I’m currently learning **[A New Technology, e.g., Next.js or Go]**
+- 🤝 I’m looking to collaborate on **[Type of Projects, e.g., Open Source or Hackathons]**
+- 💬 Ask me about **Web Development, Cloud Computing, and System Design**
+
+---
+
+## 🏆 Featured Projects
+
+| Project Name | Description | Technologies | Links |
+| :--- | :--- | :--- | :--- |
+| **[Project 1]** | Briefly describe what this project does, its features, and the problem it solves. | `React`, `Node.js`, `MongoDB` | Code / Live Demo |
+| **[Project 2]** | Briefly describe what this project does, its features, and the problem it solves. | `Python`, `AWS`, `Docker` | Code / Live Demo |
+
+---
+
+## �💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,7 +80,9 @@ I am <strong>Chandan Hegde</strong>, a Computer Science and Engineering student 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandanHegde24&show_icons=true&theme=transparent&hide_border=true" alt="Chandan's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=ChandanHegde24&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanHegde24&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
