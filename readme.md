@@ -20,23 +20,16 @@ I am <strong>Chandan Hegde</strong>, a Computer Science and Engineering student 
 
 ---
 
-## � Current Focus
+--- a/c:\Users\chandan hegde\Downloads\ChandanHegde24\readme.md
++++ b/c:\Users\chandan hegde\Downloads\ChandanHegde24\readme.md
+@@ -20,21 +20,6 @@
+ 
+ ---
+-
+ ## 💻 Tech Stack
+ 
+ !Python
 
-- 🔭 I’m currently working on **[Your Latest Project Name or Portfolio]**
-- 🌱 I’m currently learning **[A New Technology, e.g., Next.js or Go]**
-- 🤝 I’m looking to collaborate on **[Type of Projects, e.g., Open Source or Hackathons]**
-- 💬 Ask me about **Web Development, Cloud Computing, and System Design**
-
----
-
-## 🏆 Featured Projects
-
-| Project Name | Description | Technologies | Links |
-| :--- | :--- | :--- | :--- |
-| **[Project 1]** | Briefly describe what this project does, its features, and the problem it solves. | `React`, `Node.js`, `MongoDB` | Code / Live Demo |
-| **[Project 2]** | Briefly describe what this project does, its features, and the problem it solves. | `Python`, `AWS`, `Docker` | Code / Live Demo |
-
----
 
 ## �💻 Tech Stack
 
