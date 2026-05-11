@@ -62,9 +62,14 @@ I am <strong>Chandan Hegde</strong>, a Computer Science and Engineering student 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandanHegde24&show_icons=true&theme=transparent&hide_border=true" alt="Chandan's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ChandanHegde24&show_icons=true&theme=transparent&hide_border=true" alt="Chandan's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=ChandanHegde24&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanHegde24&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ChandanHegde24&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
